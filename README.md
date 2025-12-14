@@ -2,7 +2,9 @@
 
 #Make your business card a Running Unit
 
-This containsUpgrade digital cards into an orchestrated, governed, and auditable business interface.yrTg7MTCp94DBSPhakKBn-STRglBmTF9
+This containsUpgrade digital cards into an orchestrated, governed, and auditable business
+
+https://infoholder.app/
 
 ## Run Locally
 
